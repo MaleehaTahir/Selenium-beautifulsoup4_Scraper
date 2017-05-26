@@ -1,0 +1,4 @@
+pyodbc==4.0.14
+Selenium==3.4.0
+bs4
+
